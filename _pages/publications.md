@@ -92,7 +92,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 
 <table>
 <tbody>
-<tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_WRLkit.png" width="200px" height="200px"> </td>
+<tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_WRLkit2.png" width="200px" height="200px"> </td>
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. <br>
 <strong> Computational Design of Personalized Wearable Robotic Limbs </strong> <br>
