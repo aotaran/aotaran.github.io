@@ -277,7 +277,7 @@ Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br>
 <tbody>
 <tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_EH18.png" width="200px" height="200px"> </td>
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
-<ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu </sub> <br> 
+<ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu <br> 
 <strong> HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots </strong> <br>
 <i> International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics) 2018  <br> 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-93399-3_48"> [Publisher] </a> </i>  </p> </td>
