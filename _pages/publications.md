@@ -42,6 +42,7 @@ S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobal
 <i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025  <br>
 <a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [Publisher] </a>
 <a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704942"> [PDF] </a>
+<a href="https://github.com/aotaran/MetamaterialDesignAndSimulation.git"> [Github] </a>
 </i>  </p> </td>
 </tr>
 </tbody>
@@ -61,6 +62,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 <i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025 <br>
 <a href="https://dl.acm.org/doi/10.1145/3689050.3704937"> [Publisher] </a> 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704937"> [PDF] </a> 
+<a href="https://github.com/sensint/HapticGasPedal"> [Github] </a>
 </i>  </p> </td>
 </tr>
 </tbody>
@@ -79,7 +81,10 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 <p> <ins> Ata Otaran </ins> and Ildar Farkhatdinov <br> 
 <strong> Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. </strong> <br>
 <i> Human Computer Interaction International (HCII) 2024 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16"> [Publisher] </a> </i>  </p> </td>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16"> [Publisher] </a> 
+<a href="/files/survey.csv.zip"> [Survey results] </a>
+</i>  </p> </td>
+
 </tr>
 </tbody>
 </table>
@@ -97,7 +102,10 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. <br>
 <strong> Computational Design of Personalized Wearable Robotic Limbs </strong> <br>
 <i> ACM Symposium on User Interface Software and Technology (UIST) 2023 <br>
-<a href="https://dl.acm.org/doi/10.1145/3586183.3606748"> [Publisher] </a> </i>  </p> </td>
+<a href="https://dl.acm.org/doi/10.1145/3586183.3606748"> [Publisher] </a> 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3586183.3606748"> [PDF] </a> 
+<a href="https://hci.cs.uni-saarland.de/wp-content/uploads/projects/human_robot_interaction/wrlkit/WRLKit.mp4"> [Video] </a>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +122,9 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov. <br> <strong> Haptic Ankle Platform for Interactive Walking in Virtual Reality </strong> <br>
 <i> IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021  <br>
-<a href="https://ieeexplore.ieee.org/document/9535237"> [Publisher] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9535237"> [Publisher] </a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9535237"> [PDF] </a>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +178,10 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov. <br> 
 <strong> Physical Human-Robot Interaction Using HandsOn-SEA: An Educational Robotic Platform with Series Elastic Actuation </strong> <br>
 <i> IEEE Transactions on Haptics (TOH) 2021 <br>
-<a href="https://ieeexplore.ieee.org/document/9435994"> [Publisher] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9435994"> [Publisher] </a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435994&casa_token=y_IUShr7jWAAAAAA:uVv_0EHKGl11AxlzA0_MAx5rh7BSLSiNFeDVmPK5ROMKlcnm9z0kHlaxBaX1aFEasFbRpWq2MQI&tag=1"> [PDF] </a>
+<a href="https://github.com/HMILab/HandsOnSEA.git"> [Github] </a>
+ </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -287,6 +300,7 @@ Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br>
 <strong> HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots </strong> <br>
 <i> International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics) 2018  <br> 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-93399-3_48"> [Publisher] </a> </i>  </p> </td>
+<a href="https://github.com/HMILab/HandsOnSEA"> [Github] </a>
 </tr>
 </tbody>
 </table>
@@ -322,7 +336,9 @@ Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br>
  <ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu  <br> 
 <strong> Hands-On Learning with a Series Elastic Educational Robot </strong> <br>
 <i> International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics) 2016  <br> 
-<a href="https://research.sabanciuniv.edu/id/eprint/34599/"> [Link] </a> </i>  </p> </td>
+<a href="https://research.sabanciuniv.edu/id/eprint/34599/"> [Publisher] </a>
+<a href="https://github.com/HMILab/HandsOnSEA.git"> [Github] </a>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
