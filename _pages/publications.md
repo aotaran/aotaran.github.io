@@ -20,7 +20,9 @@ excerpt: "Publications"
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle <br> <strong> 3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs </strong> <br>
 <i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025 <br>
-<a href="https://dl.acm.org/doi/10.1145/3706598.3713306"> [DOI] </a> </i>  </p> </td>
+<a href="https://dl.acm.org/doi/10.1145/3706598.3713306"> [Publisher] </a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3706598.3713306"> [PDF] </a>
+<a href="https://hci.cs.uni-saarland.de/wp-content/uploads/projects/human_robot_interaction/3hands/3hands.mp4"> [Video] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -38,7 +40,9 @@ S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobal
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle. <br> <strong> Sparsely actuated modular metamaterials for shape-changing interfaces </strong> <br>
 <i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025  <br>
-<a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [DOI] </a> </i>  </p> </td>
+<a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [Publisher] </a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704942"> [PDF] </a>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -55,7 +59,9 @@ S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobal
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier. <br> <strong> Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control </strong> <br>
 <i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025 <br>
-<a href="https://dl.acm.org/doi/10.1145/3689050.3704937"> [DOI] </a> </i>  </p> </td>
+<a href="https://dl.acm.org/doi/10.1145/3689050.3704937"> [Publisher] </a> 
+<a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704937"> [PDF] </a> 
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +79,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 <p> <ins> Ata Otaran </ins> and Ildar Farkhatdinov <br> 
 <strong> Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. </strong> <br>
 <i> Human Computer Interaction International (HCII) 2024 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16"> [DOI] </a> </i>  </p> </td>
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +97,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. <br>
 <strong> Computational Design of Personalized Wearable Robotic Limbs </strong> <br>
 <i> ACM Symposium on User Interface Software and Technology (UIST) 2023 <br>
-<a href="https://dl.acm.org/doi/10.1145/3586183.3606748"> [DOI] </a> </i>  </p> </td>
+<a href="https://dl.acm.org/doi/10.1145/3586183.3606748"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +114,7 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov. <br> <strong> Haptic Ankle Platform for Interactive Walking in Virtual Reality </strong> <br>
 <i> IEEE Transactions on Visualization and Computer Graphics (TVCG) 2021  <br>
-<a href="https://ieeexplore.ieee.org/document/9535237"> [DOI] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9535237"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -144,7 +150,7 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov <br> 
 <strong> Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots </strong> <br>
 <i> 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids) 2021  <br>
-<a href="https://ieeexplore.ieee.org/document/9555768"> [DOI] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9555768"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -162,7 +168,7 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov. <br> 
 <strong> Physical Human-Robot Interaction Using HandsOn-SEA: An Educational Robotic Platform with Series Elastic Actuation </strong> <br>
 <i> IEEE Transactions on Haptics (TOH) 2021 <br>
-<a href="https://ieeexplore.ieee.org/document/9435994"> [DOI] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9435994"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +187,7 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov <br> 
 <strong> A Short Description of an Ankle-Actuated Seated VR Locomotion Interface </strong> <br>
 <i> IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEEVR) 2021 <br>
-<a href="https://ieeexplore.ieee.org/document/9419289"> [DOI] </a> </i>  </p> </td>
+<a href="https://ieeexplore.ieee.org/document/9419289"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -203,7 +209,7 @@ Bukeikhan Omarali, Taqi Abrar, Miles Hansard, Changjae Oh, Stefan Poslad, Chen L
 Hareesh Godaba, Ketao Zhang, Lorenzo Jamone and Kaspar Althoefer <br> 
 <strong> A Suite of Robotic Solutions for Nuclear Waste Decommissioning </strong> <br>
 <i> Robotics 10 (MDPI) 2021 <br>
-<a href="https://www.mdpi.com/2218-6581/10/4/112"> [DOI] </a> </i>  </p> </td>
+<a href="https://www.mdpi.com/2218-6581/10/4/112"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +228,7 @@ Hareesh Godaba, Ketao Zhang, Lorenzo Jamone and Kaspar Althoefer <br>
 <ins>Ata Otaran</ins> and Ildar Farkhatdinov <br> 
 <strong> Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction </strong> <br>
 <i> In Annual Conference Towards Autonomous Robotic Systems (TAROS) 2019 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [DOI] </a> </i>  </p> </td>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +248,7 @@ Hareesh Godaba, Ketao Zhang, Lorenzo Jamone and Kaspar Althoefer <br>
 Dinmohamed Danabek, <ins> Ata Otaran </ins>, Kaspar Althoefer and Ildar Farkhatdinov <br> 
 <strong> Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction </strong> <br>
 <i> In Annual Conference Towards Autonomous Robotic Systems (TAROS) 2019 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [DOI] </a> </i>  </p> </td>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [Publisher] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
