@@ -21,7 +21,7 @@ By changing the width and length of the flexible sections in the design we can c
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
-    <source src="/videos/MetamaterialAppsShort.mp4" type="video/mp4" width="100%">
+    <source src="/videos/MetamatVideoBright.mp4" type="video/mp4" width="100%">
   </video>
 </figure>
 
