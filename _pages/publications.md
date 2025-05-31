@@ -63,6 +63,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 <a href="https://dl.acm.org/doi/10.1145/3689050.3704937"> [Publisher] </a> 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704937"> [PDF] </a> 
 <a href="https://github.com/sensint/HapticGasPedal"> [Github] </a>
+<a href="/files/PedalSensorActuatorCAD.zip"> [CAD] </a>
 </i>  </p> </td>
 </tr>
 </tbody>
@@ -105,6 +106,8 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <a href="https://dl.acm.org/doi/10.1145/3586183.3606748"> [Publisher] </a> 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3586183.3606748"> [PDF] </a> 
 <a href="https://hci.cs.uni-saarland.de/wp-content/uploads/projects/human_robot_interaction/wrlkit/WRLKit.mp4"> [Video] </a>
+<a href="/files/WRL_CAD.zip"> [CAD] </a>
+
 </i>  </p> </td>
 </tr>
 </tbody>
