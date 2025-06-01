@@ -43,6 +43,7 @@ S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobal
 <a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [Publisher] </a>
 <a href="https://dl.acm.org/doi/pdf/10.1145/3689050.3704942"> [PDF] </a>
 <a href="https://github.com/aotaran/MetamaterialDesignAndSimulation.git"> [Github] </a>
+<a href="https://hci.cs.uni-saarland.de/wp-content/uploads/projects/flexible_and_shape_displays/metamaterial/TEI2025_MetamaterialVideo.mp4"> [Video] </a> 
 </i>  </p> </td>
 </tr>
 </tbody>
@@ -83,7 +84,7 @@ Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen S
 <strong> Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. </strong> <br>
 <i> Human Computer Interaction International (HCII) 2024 <br>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16"> [Publisher] </a> 
-<a href="/files/survey.csv.zip"> [Survey results] </a>
+<a href="/files/survey.csv.zip"> [Survey] </a>
 </i>  </p> </td>
 
 </tr>
@@ -144,7 +145,7 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_QMUL.png" width="200px" height="200px"> </td>
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 <ins>Ata Otaran</ins>. <br> <strong> Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality </strong> <br>
-<i> PhD Dissertation** 2022  <br>
+<i> PhD Dissertation 2022  <br>
 <a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/84049"> [Link] </a> </i>  </p> </td>
 </tr>
 </tbody>
@@ -184,6 +185,8 @@ Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus,
 <a href="https://ieeexplore.ieee.org/document/9435994"> [Publisher] </a>
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435994&casa_token=y_IUShr7jWAAAAAA:uVv_0EHKGl11AxlzA0_MAx5rh7BSLSiNFeDVmPK5ROMKlcnm9z0kHlaxBaX1aFEasFbRpWq2MQI&tag=1"> [PDF] </a>
 <a href="https://github.com/HMILab/HandsOnSEA.git"> [Github] </a>
+<a href="/files/HandsOn_Manufacturing.zip"> [Manufacturing] </a>
+<a href="/files/HandsOn_labmanual.pdf"> [Lab manual] </a>
  </i>  </p> </td>
 </tr>
 </tbody>
@@ -282,7 +285,9 @@ Dinmohamed Danabek, <ins> Ata Otaran </ins>, Kaspar Althoefer and Ildar Farkhatd
 Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br> 
 <strong> A series elastic brake pedal to preserve conventional pedal feel under regenerative braking </strong> <br>
 <i> In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018  <br> 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [Publisher] </a> </i>  </p> </td>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28"> [Publisher] </a> 
+<a href="https://github.com/HMILab/HandsOnSEA"> [Github] </a>
+</i>  </p> </td>
 </tr>
 </tbody>
 </table>
@@ -303,7 +308,7 @@ Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br>
 <strong> HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots </strong> <br>
 <i> International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics) 2018  <br> 
 <a href="https://link.springer.com/chapter/10.1007/978-3-319-93399-3_48"> [Publisher] </a> </i>  </p> </td>
-<a href="https://github.com/HMILab/HandsOnSEA"> [Github] </a>
+
 </tr>
 </tbody>
 </table>
@@ -339,8 +344,10 @@ Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu <br>
  <ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu  <br> 
 <strong> Hands-On Learning with a Series Elastic Educational Robot </strong> <br>
 <i> International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics) 2016  <br> 
-<a href="https://research.sabanciuniv.edu/id/eprint/34599/"> [Publisher] </a>
+<a href="https://link.springer.com/chapter/10.1007/978-3-319-42324-1_1"> [Publisher] </a>
 <a href="https://github.com/HMILab/HandsOnSEA.git"> [Github] </a>
+<a href="/files/HandsOn_Manufacturing.zip"> [Manufacturing] </a>
+<a href="/files/HandsOn_labmanual.pdf"> [Lab manual] </a>
 </i>  </p> </td>
 </tr>
 </tbody>
