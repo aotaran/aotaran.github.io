@@ -33,6 +33,14 @@ The question is, how to reduce the number of fabrication iterations for achievin
   </video>
 </figure>
 
+And here is a video where the gripper is controlled with hand tracking.
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="100%">
+    <source src="/videos/DemoMocap.mp4" type="video/mp4" width="100%">
+  </video>
+</figure>
+
 **Related Academic work**
 
 <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
