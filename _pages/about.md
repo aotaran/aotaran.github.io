@@ -30,4 +30,4 @@ On this website, you’ll find highlights of my research, projects, and publicat
 
 Email: ata.otaran@gmail.com
 
-Saarbrücken, Germany
+Magdeburg, Germany
