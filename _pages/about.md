@@ -21,10 +21,6 @@ For my PhD, I moved to London to work in the [HAIR Group at Queen Mary Universit
 I have long had the idea that most of the traditional haptic interfaces were lacking shape display capabilities and soft robotics can be used for building customized tangible interfaces for everyday use. During my postdoctoral research in the [HCI Group of Saarland University](https://hci.cs.uni-saarland.de/), led by Prof. Jürgen Steimle, explored the use of metamaterial-based shape-changing interfaces that generate dynamic, tangible surface topologies for physical interaction. My vision with these metamaterial structures is to provide a design space where developers can easily define their desired shape change, use computational fabrication tools for optimized design and fabricate their custom interface. Embedding actuation and sensing units into metamaterial structures, I aim to create generalizable solutions for shape displays with intelligent haptic interaction capabilities.
 </details> </p>
 
-
-
-
-
 # Contact
 On this website, you’ll find highlights of my research, projects, and publications. Feel free to explore, and don’t hesitate to reach out if you’d like to connect or discuss potential collaborations!
 
